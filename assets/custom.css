@@ -11865,7 +11865,7 @@ textarea.form-control-lg {
 }
 
 .nav-title {
-  color: #ec9d64;
+  color: #ffeecb;
 }
 
 .content-bg-1 {
@@ -11911,6 +11911,7 @@ textarea.form-control-lg {
 
 .bg3 {
   background-color: #fcf3dd;
+  background-image: url("../assets/bglg.png");
 }
 
 img {
