@@ -1,0 +1,1 @@
+sass --watch scss/custom.scss assets/custom.css
